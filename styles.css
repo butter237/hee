@@ -1,0 +1,17 @@
+body{
+    background-color: red; text-align: center ;font-family: 'Charm', cursive;
+}
+img {
+    border:10px solid wheat; 
+    width: 25%;
+    display: inline-block; height: 25%;
+}
+.content-1 {
+    display: inline-block; 
+    margin-left:20px ;margin-right: 20px;
+    background: white;
+    padding: 0px 10px 0px 10px;
+    border-radius: 20px;
+    font-size: large;
+    box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.399);
+}
